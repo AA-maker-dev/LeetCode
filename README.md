@@ -15,15 +15,9 @@ A collection of my **LeetCode** solutions in **C++**, automatically synchronized
 ```
 LeetCode/
 ├── Arrays/
-│   └── 1-two-sum/
-├── Linked-List/
-│   └── 2-add-two-numbers/
-├── Strings/
-│   └── 3-longest-substring-without-repeating-characters/
 ├── Dynamic-Programming/
-│   ├── 1522-stone-game-iii/
-│   ├── 1685-stone-game-v/
-│   └── 1788-stone-game-vi/
+├── Linked-List/
+└── Strings/
 ```
 
 <!-- TREE_END -->
