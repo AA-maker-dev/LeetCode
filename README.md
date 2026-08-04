@@ -12,6 +12,14 @@ A collection of my **LeetCode** solutions in **C++**, automatically synchronized
 ## 📂 Repository Structure
 
 <!-- TREE_START -->
+```
+LeetCode/
+├── 1-two-sum/
+├── 1522-stone-game-iii/
+├── 1685-stone-game-v/
+└── 1788-stone-game-vi/
+```
+
 <!-- TREE_END -->
 
 ## 🛠 Topics Covered
