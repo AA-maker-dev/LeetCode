@@ -20,7 +20,8 @@ LeetCode/
 ├── 1522-stone-game-iii/
 ├── 1685-stone-game-v/
 ├── 1788-stone-game-vi/
-└── 4-median-of-two-sorted-arrays/
+├── 4-median-of-two-sorted-arrays/
+└── 5-longest-palindromic-substring/
 ```
 
 <!-- TREE_END -->
