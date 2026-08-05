@@ -19,7 +19,8 @@ LeetCode/
 ├── 0003-longest-substring-without-repeating-characters/
 ├── 1522-stone-game-iii/
 ├── 1685-stone-game-v/
-└── 1788-stone-game-vi/
+├── 1788-stone-game-vi/
+└── 4-median-of-two-sorted-arrays/
 ```
 
 <!-- TREE_END -->
