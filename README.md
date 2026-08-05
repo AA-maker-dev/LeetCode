@@ -21,7 +21,8 @@ LeetCode/
 ├── 1685-stone-game-v/
 ├── 1788-stone-game-vi/
 ├── 4-median-of-two-sorted-arrays/
-└── 5-longest-palindromic-substring/
+├── 5-longest-palindromic-substring/
+└── 6-zigzag-conversion/
 ```
 
 <!-- TREE_END -->
