@@ -23,7 +23,8 @@ LeetCode/
 ├── 4-median-of-two-sorted-arrays/
 ├── 5-longest-palindromic-substring/
 ├── 6-zigzag-conversion/
-└── 7-reverse-integer/
+├── 7-reverse-integer/
+└── 8-string-to-integer-atoi/
 ```
 
 <!-- TREE_END -->
