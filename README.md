@@ -20,6 +20,7 @@ LeetCode/
 ├── 1522-stone-game-iii/
 ├── 1685-stone-game-v/
 ├── 1788-stone-game-vi/
+├── 3626-smallest-divisible-digit-product-i/
 ├── 3635-smallest-divisible-digit-product-ii/
 ├── 4-median-of-two-sorted-arrays/
 ├── 5-longest-palindromic-substring/
