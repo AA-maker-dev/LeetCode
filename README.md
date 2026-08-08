@@ -24,6 +24,7 @@ LeetCode/
 ├── 3584-find-the-lexicographically-smallest-valid-sequence/
 ├── 3626-smallest-divisible-digit-product-i/
 ├── 3635-smallest-divisible-digit-product-ii/
+├── 3684-substring-matching-pattern/
 ├── 4-median-of-two-sorted-arrays/
 ├── 44-wildcard-matching/
 ├── 5-longest-palindromic-substring/
